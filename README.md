@@ -20,7 +20,7 @@
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-- Unreal Engine 4.27 or later
+- Unreal Engine 5.4 or later
 - Visual Studio 2019 or later (for Windows users)
 - Xcode 11.3 or later (for Mac users)
 
@@ -28,7 +28,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/warehouse-wreckage.git
+    git clone https://github.com/Tareq-Ghassan/warehouse-wreckage.git
     ```
 
 2. Open the project in Unreal Engine:
@@ -64,7 +64,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgments
 
